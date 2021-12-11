@@ -102,4 +102,12 @@ background-size: cover;
   .destyle-anchor:hover { 
       color: #000000; 
     }
+
+  .no-bull{
+    list-style-type: none;
+  }
+
+  .no-deco{
+    text-decoration: none;
+  }
   
