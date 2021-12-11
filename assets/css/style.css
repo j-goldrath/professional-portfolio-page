@@ -104,10 +104,10 @@ background-size: cover;
     }
 
   .no-bull{
-    list-style-type: none;
+    list-style-type: none !important;
   }
 
   .no-deco{
-    text-decoration: none;
+    text-decoration: none !important;
   }
   
